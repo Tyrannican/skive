@@ -2,6 +2,13 @@
 name = "skive"
 version = "0.1.0"
 edition = "2021"
+authors = ["Graham Keenan <graham.keenan@outlook.com>"]
+license = "MIT OR Apache-2.0"
+description = "Array slicer and compressor library"
+readme = "README.md"
+repository = "https://github.com/Tyrannican/skive"
+keywords = ["array", "slice", "compression", "chunk"]
+categories = ["compression"]
 
 [dependencies]
 bytes = "1.7.2"
